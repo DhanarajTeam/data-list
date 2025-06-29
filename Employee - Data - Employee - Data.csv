@@ -1,0 +1,13 @@
+Employee Name,Date of Birth,Gender,Qualification,Address,Experience,Phone no,Email,Joining date,Mode of work,Cab Allowance,Food Allowances,Wifi Allowances,Cab Allowance Amount,Food Allowance Amount,Wifi Allowance Amount,Login Time,Logout Time,LinkedIn profile
+Jackie Chan,1993-01-01,Male,B.Tech,,9,7995434750,jackie@abc.com,2012-12-05,On Site,TRUE,TRUE,FALSE,1000,1000,,2025-01-01T09:00:00,2025-01-01T17:00:00,https://www.linkedin.com/in/jackie
+James,1998-02-27,Male,B.Tech,,6,7995434751,james@abc.com,2017-05-12,Remote,FALSE,FALSE,TRUE,1000,,500,,,https://www.linkedin.com/in/james
+Benjamin,1999-03-16,Male,B.Com,,5,7995434752,benjamin@abc.com,2018-09-14,Remote,FALSE,FALSE,TRUE,,,500,,,https://www.linkedin.com/in/benjamin
+Alexander,2001-07-14,Male,B.Tech,,2,7995434753,alex@abc.com,2021-05-15,On Site,TRUE,TRUE,FALSE,1000,1000,,2025-01-01T09:00:00,2025-01-01T17:00:00,https://www.linkedin.com/in/alex
+William,2002-11-05,Male,B.Tech,,2,7995434754,william@abc.com,2021-05-20,On Site,TRUE,TRUE,FALSE,1000,1000,,2025-01-01T09:00:00,2025-01-01T17:00:00,https://www.linkedin.com/in/william
+Ethan,1995-11-11,Male,B.Com,,2,7995434755,ethan@abc.com,2021-02-27,On Site,TRUE,TRUE,FALSE,1000,1000,,2025-01-01T09:00:00,2025-01-01T17:00:00,https://www.linkedin.com/in/ethan
+Emma,1998-11-29,Female,B.Tech,,3,7995434756,emma@abc.com,2020-11-13,Remote,FALSE,FALSE,TRUE,,,500,,,https://www.linkedin.com/in/emma
+Olivia,2002-08-03,Female,B.Tech,,3,7995434757,olivia@abc.com,2020-08-19,Remote,FALSE,FALSE,TRUE,,,500,,,https://www.linkedin.com/in/olivia
+Sophia,2000-03-27,Female,B.Tech,,2,7995434758,sophia@abc.com,2021-03-19,Remote,FALSE,FALSE,TRUE,,,500,,,https://www.linkedin.com/in/sophia
+Isabella,1996-06-17,Female,B.Com,,7,7995434759,isabella@abc.com,2016-01-01,On Site,TRUE,TRUE,FALSE,1000,1000,,2025-01-01T09:00:00,2025-01-01T17:00:00,https://www.linkedin.com/in/isabella
+Amelia,1999-09-19,Female,B.Tech,,2,7995434760,amelia@abc.com,2021-09-19,On Site,TRUE,TRUE,FALSE,1000,1000,,2025-01-01T09:00:00,2025-01-01T17:00:00,https://www.linkedin.com/in/amelia
+Elizabeth,1999-05-24,Female,B.Tech,,2,7995434761,elizabeth@abc.com,2021-02-27,Remote,FALSE,FALSE,TRUE,,,500,,,https://www.linkedin.com/in/elizabeth
